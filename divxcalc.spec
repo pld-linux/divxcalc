@@ -15,13 +15,13 @@ BuildRequires:	gtk+-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-DivX Calc is a simple DivX calculator for Linux. It uses a simple GTK
+DivX Calc is a simple DivX calculator for Linux. It uses a simple GTK+
 interface which calculates which bitrate to use while encoding a movie
 using DivX ;-).
 
 %description -l pl
 DivX Calc to prosty kalkulator DivX dla Linuksa. Za pomoc± prostego
-interfejsu GTK mo¿na przeliczyæ jaki bitrate zastosowaæ do kompresji
+interfejsu GTK+ mo¿na przeliczyæ jaki bitrate zastosowaæ do kompresji
 filmu za pomoc± DivX ;-).
 
 %prep
