@@ -1,5 +1,5 @@
-Summary:	A bitrate calculator for DivX:-) movies
-Summary(pl):	Kalkulator bitrate dla filmów DivX:-)
+Summary:	A bitrate calculator for DivX ;-) movies
+Summary(pl):	Kalkulator bitrate dla filmów DivX ;-)
 Name:		divxcalc
 Version:	0.4a
 Release:	0.1
@@ -9,6 +9,7 @@ Source0:	http://axljab.homelinux.org:8080/software/divxcalc/%{name}-%{version}.t
 URL:		http://axljab.homelinux.org:8080/?m=sw&p=divxcalc
 BuildRequires:	autoconf
 BuildRequires:	automake
+BuildRequires:	gettext-devel
 BuildRequires:	gtk+-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
