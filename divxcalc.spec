@@ -6,6 +6,7 @@ Release:	0.1
 License:	GPL
 Group:		Applications
 Source0:	http://axljab.homelinux.org:8080/software/divxcalc/%{name}-%{version}.tar.gz
+# Source0-md5:	c51ed74b3c8693d9185ce31d0e23915d
 URL:		http://axljab.homelinux.org:8080/?m=sw&p=divxcalc
 BuildRequires:	autoconf
 BuildRequires:	automake
