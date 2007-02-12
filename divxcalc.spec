@@ -1,5 +1,5 @@
 Summary:	A bitrate calculator for DivX ;-) movies
-Summary(pl.UTF-8):   Kalkulator bitrate dla filmów DivX ;-)
+Summary(pl.UTF-8):	Kalkulator bitrate dla filmów DivX ;-)
 Name:		divxcalc
 Version:	0.4a
 Release:	0.1
