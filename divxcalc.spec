@@ -1,5 +1,5 @@
 Summary:	A bitrate calculator for DivX ;-) movies
-Summary(pl):	Kalkulator bitrate dla filmów DivX ;-)
+Summary(pl.UTF-8):   Kalkulator bitrate dla filmÃ³w DivX ;-)
 Name:		divxcalc
 Version:	0.4a
 Release:	0.1
@@ -19,10 +19,10 @@ DivX Calc is a simple DivX calculator for Linux. It uses a simple GTK+
 interface which calculates which bitrate to use while encoding a movie
 using DivX ;-).
 
-%description -l pl
-DivX Calc to prosty kalkulator DivX dla Linuksa. Za pomoc± prostego
-interfejsu GTK+ mo¿na przeliczyæ jaki bitrate zastosowaæ do kompresji
-filmu za pomoc± DivX ;-).
+%description -l pl.UTF-8
+DivX Calc to prosty kalkulator DivX dla Linuksa. Za pomocÄ… prostego
+interfejsu GTK+ moÅ¼na przeliczyÄ‡ jaki bitrate zastosowaÄ‡ do kompresji
+filmu za pomocÄ… DivX ;-).
 
 %prep
 %setup -q
