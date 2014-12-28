@@ -10,7 +10,7 @@ Source0:	http://axljab.homelinux.org:8080/software/divxcalc/%{name}-%{version}.t
 URL:		http://axljab.homelinux.org:8080/?m=sw&p=divxcalc
 BuildRequires:	autoconf
 BuildRequires:	automake
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	gtk+-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
